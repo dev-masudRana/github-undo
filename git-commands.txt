@@ -1,0 +1,8 @@
+git checkout -- <fileName>/. (undo changes from working directory)
+
+git reset HEAD <fileName>/. (unstage from Staged Area)
+
+git reset --hard HEAD (undo changes from staging area and working directory)
+
+
+
