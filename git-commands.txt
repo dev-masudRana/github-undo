@@ -4,5 +4,7 @@ git reset HEAD <fileName>/. (unstage from Staged Area)
 
 git reset --hard HEAD (undo changes from staging area and working directory)
 
+git commit --amend (amend commit)
+
 
 
